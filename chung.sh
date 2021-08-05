@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL=us1.ethermine.org:5555
+POOL=us1.ethermine.org:4444
 WALLET=0xf7fe12e0432b84added46f93704a2dcc0938abbe.acc10
 
 cd "$(dirname "$0")"
